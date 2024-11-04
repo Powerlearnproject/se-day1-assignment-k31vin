@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16938781&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -63,3 +62,5 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 vague prompt : draw a rectangle
 improved prompt : draw a rectangle with a width of 5 units and a height of 10 units
 The improved prompt is more effective because it provides clear and specific requirements for the AI model to follow.
+
+
